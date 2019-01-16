@@ -7,7 +7,7 @@ def speak_to_grandma(say)
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
   elsif say == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU PUMPKIN!"
+    return "I LOVE YOU TOO PUMPKIN!"
   
   else say == say.upcase
     return  "NO, NOT SINCE 1938!"
